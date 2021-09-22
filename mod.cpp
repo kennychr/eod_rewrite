@@ -1,8 +1,8 @@
-name = "Advanced Combat Environment 3 - Project Template";
+name = "EOD Rewrite";
 picture = "logo_proj_templ_ca.paa";
 actionName = "GitHub";
-action = "https://github.com/acemod/arma-project-template";
-description = "Project Template";
+action = "";
+description = "EOD Rewrite";
 logo = "logo_proj_templ_ca.paa";
 logoOver = "logo_proj_templ_ca.paa";
 tooltip = "ACE3 Project Template";

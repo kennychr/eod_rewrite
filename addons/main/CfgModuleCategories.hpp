@@ -1,7 +1,7 @@
 class CfgFactionClasses {
     class NO_CATEGORY;
-    class PROJ_TEMPL: NO_CATEGORY {
-        displayName = "PROJ_TEMPL";
+    class EOD_REWRITE: NO_CATEGORY {
+        displayName = "EOD_REWRITE";
         priority = 2;
         side = 7;
     };
@@ -9,6 +9,6 @@ class CfgFactionClasses {
 
 class CfgVehicleClasses {
     class PROJ_TEMPL_Vehicles {
-        displayName = "PROJ_TEMPL Vehicles";
+        displayName = "EOD_REWRITE Vehicles";
     };
 };

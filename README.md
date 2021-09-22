@@ -42,11 +42,11 @@ See the [ACE3 documentation](https://ace3mod.com/wiki/development/setting-up-the
 
 Search and replace all mentions of the following:
 ```
-proj_templ by {your_prefix}
+eod_rewrite by {your_prefix}
 ```
 
 ```
-PROJ_TEMPL by {PROJ_TEMPL}
+EOD_REWRITE by {EOD_REWRITE}
 ```
 Note that both lower and upper case are necessary. Once done, replace the logo (`logo_proj_templ_ca.paa`) by your own. Keep the same aspect ratio and file extension (`.paa`). This is important for good results in game. Also remember to rename the logo file to `logo_{your_prefix}_ca.paa`.
 
@@ -54,11 +54,11 @@ Note that both lower and upper case are necessary. Once done, replace the logo (
 ##### Example:
 
 ```
-proj_templ by acex
+eod_rewrite by acex
 ```
 
 ```
-PROJ_TEMPL by ACEX
+EOD_REWRITE by ACEX
 ```
 
 ### Tooling
