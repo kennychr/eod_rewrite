@@ -6,12 +6,13 @@ about: Report issues where ACE3 doesn't play nice with other mods
 
 **Arma 3 Version:** `x.xx` (stable / rc / dev)
 **CBA Version:** `3.x.x` (stable / dev + commit hash)
-**ACE3 Version:** `3.x.x` (stable / dev + commit hash)
+**EOD_Rewrite Version:** `3.x.x` (stable / dev + commit hash)
 
 **Mods:**
 ```
 - CBA_A3
 - ace
+- EOD_Rewrite
 ```
 
 **Description:**

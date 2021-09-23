@@ -1,17 +1,18 @@
 ---
 name: Bug report
-about: Report an issue with ACE3
+about: Report an issue with EOD Rewrite
 
 ---
 
 **Arma 3 Version:** `x.xx` (stable / rc / dev)
-**CBA Version:** `3.x.x` (stable / dev + commit hash)
-**ACE3 Version:** `3.x.x` (stable / dev + commit hash)
+**CBA Version:** `x.x.x` (stable / dev + commit hash)
+**EOD_Rewrite Version:** `x.x.x` (stable / dev + commit hash)
 
 **Mods:**
 ```
 - CBA_A3
 - ace
+- EOD_Rewrite
 ```
 
 **Description:**
