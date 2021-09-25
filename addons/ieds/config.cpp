@@ -6,8 +6,8 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"eod_rewrite_main"};
-        author = "Chtistiansen";
+        requiredAddons[] = {"eod_rewrite_main","ace_common","ace_explosives"};
+        author = "Christiansen";
         authors[] = {""};
         VERSION_CONFIG;
     };

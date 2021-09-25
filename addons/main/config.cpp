@@ -6,7 +6,7 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"ace_common"};
+        requiredAddons[] = {"A3_Functions_F","ace_common"};
         author = "";
         authors[] = {"ACE Team", "Glowbal"};
         authorUrl = "http://ace3mod.com";
