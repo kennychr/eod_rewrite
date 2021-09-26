@@ -1,5 +1,5 @@
 #include "script_component.hpp"
-
+//Needs a header
 params ["_unit", "_target"];
 _target = attachedTo (_target);
 _detonatorType = getText(ConfigFile >> "CfgAmmo" >> typeOf (_target) >> QGVAR(detonatorType));
