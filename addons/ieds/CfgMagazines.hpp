@@ -1,4 +1,5 @@
 class CfgMagazines {
+
     class IEDUrbanBig_Remote_Mag;
 	class ATMine_Range_Mag;
     class CA_Magazine;
