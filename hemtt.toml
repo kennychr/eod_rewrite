@@ -15,7 +15,7 @@ files = [
     "meta.cpp"
 ]
 
-keyname = "{{prefix}}_{{version}}"
+key_name = "{{prefix}}_{{version}}"
 
 
 releasebuild = [
